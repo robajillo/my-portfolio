@@ -1,14 +1,16 @@
 ### My Portfolio
 
-#### Author: 
+#### Author:
 [robajillo] (https://github.com/robajillo)
 
 
-#### Description: 
+#### Description:
 This is a personal portfolio contaning a background information about me including my photo,hobbies,interests and skills
 
 
-#### Features: 
+#### Features:
 features include photo
 an about me section, schools attended and project links
 
+#### Link to published sites
+https://robajillo.github.io/my-portfolio/
