@@ -39,3 +39,9 @@ p {
   text-align: right;
   margin-top: 10px;
 }
+.copyright {
+  font-size: 20pt;
+  text-align: right;
+  padding-bottom: 20px;
+  color: grey;
+}
